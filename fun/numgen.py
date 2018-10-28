@@ -1,12 +1,10 @@
 from random import shuffle
 
-
 numpicks = 20
 
 excluded_mains = {3, 21, 45, 53, 56}
 
 excluded_megas = {22}
-
 
 
 def mains(max_number):
